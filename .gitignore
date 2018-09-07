@@ -36,5 +36,5 @@ dist/
 # output from invoke script
 output.txt
 
-
+.json
 .env
