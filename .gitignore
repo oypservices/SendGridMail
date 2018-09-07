@@ -26,7 +26,7 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-# Lambda Config - by default we don't want to check this in since it may have credentials and/or 
+# Lambda Config - by default we don't want to check this in since it may have credentials and/or
 # other sensitive data.
 config.json
 
@@ -35,3 +35,6 @@ dist/
 
 # output from invoke script
 output.txt
+
+
+.env
